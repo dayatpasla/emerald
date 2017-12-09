@@ -1,7 +1,6 @@
 ---
 title: About Me
 ---
-![Test](/emerald/saya.png "Test")
 <img src="/emerald/saya.png" alt="Test" title="Test" />
 Ayo berkenalan dengan Saya :D
 
