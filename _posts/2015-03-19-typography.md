@@ -4,7 +4,7 @@ title: About Me
 <img src="/emerald/saya.png" alt="Test" title="Test" />
 Ayo berkenalan dengan Saya :D
 
-### Nama : Biodata Saya
+### Biodata Saya
 
 Nama  | M.Hidayatullah
 ------------- | -------------
