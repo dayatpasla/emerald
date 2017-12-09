@@ -11,3 +11,8 @@ Ayo berkenalan dengan Saya :D
 ## Program Studi Sistem Informasi
 ## Fakultas Sains dan Teknologi
 ## Universitas Islam Negeri Sultan Syarif Kasim Riau
+
+
+Please Visit :
+http://sif.uin-suska.ac.id/
+http://uin-suska.ac.id/
