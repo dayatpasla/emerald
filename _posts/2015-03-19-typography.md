@@ -6,12 +6,13 @@ Ayo berkenalan dengan Saya :D
 
 ### Biodata Saya
 
-Nama  | M.Hidayatullah
+
 ------------- | -------------
-NIM  | 11453101577
-Jurusan  | Sistem Informasi
-Fakultas  | Sains dan Teknologi
-Universitas  | Universitas Islam Negeri Sultan Syarif Kasim Riau
+Nama  | : M.Hidayatullah
+NIM  | : 11453101577
+Jurusan  | : Sistem Informasi
+Fakultas  | : Sains dan Teknologi
+Universitas  | : Universitas Islam Negeri Sultan Syarif Kasim Riau
 
 
 Please Visit :
