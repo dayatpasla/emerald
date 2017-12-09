@@ -15,8 +15,11 @@ Fakultas  | : Sains dan Teknologi
 Universitas  | : Universitas Islam Negeri Sultan Syarif Kasim Riau
 
 
+
+
+
 Please Visit :
 
-http://sif.uin-suska.ac.id/
+_http://sif.uin-suska.ac.id/_
 
-http://uin-suska.ac.id/
+_http://uin-suska.ac.id/_
