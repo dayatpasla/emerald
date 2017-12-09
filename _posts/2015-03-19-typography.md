@@ -1,7 +1,7 @@
 ---
 title: About Me
 ---
-![Test](/emerald/img/img-test.png "Test")
+![Test](/emerald/saya.png "Test")
 Ayo berkenalan dengan Saya :D
 
 ### Nama : M. Hidayatullah
