@@ -10,7 +10,7 @@ function toggle() {
 	  var nav = navRight !== null ? navRight : navLeft;
 
 	  var button = document.getElementById("menu");
-	  var site = document.getElementById("wrap");
+	  //var site = document.getElementById("wrap");
 	  
 	  if (nav.className == "menu-open" || nav.className == "menu-open-left") {
 	  	  nav.className = "";
