@@ -13,13 +13,7 @@ NIM  | : 11453101577
 Jurusan  | : Sistem Informasi
 Fakultas  | : Sains dan Teknologi
 Universitas  | : Universitas Islam Negeri Sultan Syarif Kasim Riau
+Website  | : _http://uin-suska.ac.id/_
+             | : _http://sif.uin-suska.ac.id/_
 
 
-
-
-
-Please Visit :
-
-_http://sif.uin-suska.ac.id/_
-
-_http://uin-suska.ac.id/_
